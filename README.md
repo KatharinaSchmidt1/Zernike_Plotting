@@ -1,11 +1,15 @@
 # Zernike_Plotting
-MatLab Code to plot images (.eps or .png) of Zernike polynomials
+<p align="center">
+<img src="https://img.shields.io/badge/MatLab%20Version-R2020b-blue"> <img src="https://img.shields.io/github/issues-raw/KatharinaSchmidt1/Zernike_Plotting">
+<img src="https://img.shields.io/github/issues-closed-raw/KatharinaSchmidt1/Zernike_Plotting">
+</p>  
+<a MatLab Code to plot images (.eps or .png) of Zernike polynomials /a>
 
 Examples: 
 Image | Description
 --- | ---
 <img src="/Zernike4.png" width="50%" height="50%"> | Defocus
-<img src="/Zernike7.png" width="50%" height="50%"> | Astigmatism
+<img src="/Zernike7.png" width="50%" height="50%"> | Coma
 <img src="/Zernike10.png" width="50%" height="50%"> | Trefoil
 
 ## Source of functions
