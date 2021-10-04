@@ -15,8 +15,8 @@ The functions calcShape and calcPoly derive from:
     }
     
 ## How to use
-1. Download all three files into the same folder
-2. Start *main.m* and set the current folder to working directory or add it to PATH
+1. Download all files into the same folder
+2. Start *main.mlx* and set the current folder to working directory or add it to PATH
 3. Insert resolution of the derived images (Pixel)
 4. Place a checkmark in the boxes of the Zernikes you want to plot
 5. The plots appear in the live editor and in the current folder
